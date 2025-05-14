@@ -25,4 +25,4 @@ Este repositório contém um resumo prático e comentado dos conceitos fundament
 1. Instale o [Node.js](https://nodejs.org) (caso ainda não tenha).
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/javascript-resumo.git
+   git clone https://github.com/Marcustech100/javascript-resumo
